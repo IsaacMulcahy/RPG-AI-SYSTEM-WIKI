@@ -2,7 +2,7 @@
 name: Feedback report
 about: Tell us how you are finding it
 title: ''
-labels: Feedback
+labels: feedback
 assignees: ''
 
 ---
